@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea.gradlebuild/gradle*!gradle-plugins*gradle-app.setting!gradle-wrapper.jar.gradletasknamecachelocal.propertiesgen
